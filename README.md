@@ -1,2 +1,2 @@
 # Naildesigner
-projeto landing page para salão de beleza
+Projeto landing page para salão de beleza
